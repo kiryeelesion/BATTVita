@@ -23,11 +23,19 @@ He creado esta aplicación con el fin de aprender sobre Lua y el proceso de crea
 
 ![BATTVita3][i3]
 
+## Descarga
+
+[BATTVita ver. 01.00][l2]
+
+[BATTVita releases][l3]
+
 <!-- lista de links -->
 
 [l1]: https://kiryeelesion.blogspot.com.co/2018/04/recopilacion-de-tutoriales-lua-para-ps.html "Recopilación de tutoriales Lua para PS Vita"
+[l2]: https://github.com/kiryeelesion/BATTVita/releases/download/v01.00/BATTVITA.vpk "BATTVita"
+[l3]: https://github.com/kiryeelesion/BATTVita/releases "BATTVita releases"
 
-## Descarga
+
 
 <!-- lista de imágenes -->
 
